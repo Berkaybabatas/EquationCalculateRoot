@@ -55,7 +55,7 @@ class EquationCalculateRoot extends Frame implements ActionListener {
 		text = cValue.getText();
 		Ctemp = Double.parseDouble(text);
 
-		// Determinant Calculation
+		// Diskriminant Calculation
 		Delta = Math.pow(Btemp, 2) - 4 * Atemp * Ctemp;
 		String deltaText = "Delta: " + Double.toString(Delta);
 		if (Delta > 0) {
