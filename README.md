@@ -1,4 +1,4 @@
-# EquationCalculateRoot
+# Equation Calculate Root
 Java program that calculates the root of quadratic equations with the help of discriminant using Java AWT software
 
 Discriminant Δ formula used is as follows:
